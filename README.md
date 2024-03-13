@@ -6,3 +6,5 @@ The model is ready to print and simply drops into place. ASA or PETG or recommen
 
 
 ![Early-944_Radio_Plug](https://github.com/nicolas-sidebottom/Early-944-Radio-Plug/assets/81268057/11f18839-7b56-4d7f-8b90-0e3b9dbce863)
+
+![IMG_2227 thumbnail](https://github.com/nicolas-sidebottom/Early-944-Radio-Plug/assets/81268057/47e14007-edd9-47ba-907c-ffe839415a5b)
